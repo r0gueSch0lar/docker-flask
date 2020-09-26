@@ -1,0 +1,7 @@
+Flask
+Flask-login
+Flask-principal
+Flask-WTF
+Flask-SQLAlchemy
+Flask-Limiter
+Flask-Mail
