@@ -1,7 +1,7 @@
-Flask
-Flask-login
-Flask-principal
-Flask-WTF
-Flask-SQLAlchemy
-Flask-Limiter
-Flask-Mail
+Flask==1.1.2
+Flask-login==0.5.0
+Flask-principal==0.4.0
+Flask-WTF==0.14.3
+Flask-SQLAlchemy==2.4.4
+Flask-Limiter==1.4
+Flask-Mail==0.9.1
