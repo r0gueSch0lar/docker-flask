@@ -8,4 +8,5 @@ Flask-Mail==0.9.1
 Flask-RESTful==0.3.8
 Flask-Session==0.3.2
 Flask-Security==3.0.0
+Flask-Uploads==-0.2.1
 Pony==0.7.13
