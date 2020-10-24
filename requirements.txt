@@ -9,4 +9,5 @@ Flask-RESTful==0.3.8
 Flask-Session==0.3.2
 Flask-Security==3.0.0
 Flask-Uploads==-0.2.1
+Flask-Redis==0.4.0
 Pony==0.7.13
